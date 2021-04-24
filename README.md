@@ -6,4 +6,5 @@
 [![Qt](https://img.shields.io/badge/Qt-5.12.3-blue)](https://github.com/haknkayaa/streamDeck)
 
 
-[TR - Türkçe] [EN - English]
+[TR - Türkçe](https://github.com/haknkayaa/streamDeck/README.md)
+[EN - English](https://github.com/haknkayaa/streamDeck/README-Eng.md)
