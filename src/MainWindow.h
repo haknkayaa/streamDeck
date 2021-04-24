@@ -15,6 +15,10 @@ public:
     void guiInitialSettings();
     void mainContent();
     void createStatusBar();
+
+public slots:
+    void refreshPort();
+    void deviceConnect();
 };
 
 
